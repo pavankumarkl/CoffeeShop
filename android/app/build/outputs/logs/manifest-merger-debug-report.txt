@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /Users/Swet/Documents/CoffeeShop/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/Swet/Documents/CoffeeShop/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/Swet/Documents/CoffeeShop/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_async-storage] /Users/Swet/Documents/CoffeeShop/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/Swet/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/674c30a9de43c75aaabcce55a4829191/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1bf6ee6b4a27958500ef4dfdd8cee318/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/1d54cdaf304b83be17dacc3fd9950dd8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/1ed05ca6c7103cc96c451f8175ae4d0a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/576eb45ac4825ccc010981a9c2f6f9f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/61f0bf061c8b9341428bfde54e59b8ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9ebca6925b20352b3667b22fee4265af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/353d3b77a865aa081cc3b4c398364e93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c38f4b9f3488ce75cfaf490c02d8e3ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/983dbf2c3360b991a1e05123410627de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7ae77c608f214a4c73f228ff39f19956/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/28a8a39705b0a64c1d07153fccafb415/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5fa85dfc3211317f2381e3ed4718c43e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cc3afaf5e03912235a877d9954ed7ad0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/15e72b7cace45c1ff3ad9c37ed48d5d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ddd764d93c784ca2442b92443cd262da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b7358ecbd5fbad42179136fedc86281d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/93707f96d3e5c7813c761c3a0754d78c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e387351c486e5089fa3ba01abc40511a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Swet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e4d1f31f611bc67fbc157db561b7c9b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/91e0db5bb4e35e62b1dba669c092865c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/bbb4654db5a11eff120fe72e0b3f6820/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/aab4f8fc64cfcdef9e2d77cc2bd19974/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Swet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f5f93122a4b6f0f5490c94a58862db9c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Swet/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/df2cc0c1c3ff22ff61fdee511ff1cb54/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Swet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5a5440181550e49cec99375558755e8e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Swet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8fdc4d8081c8a789bc08261c8c9802e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/dbdccfdb666fc29a5635cfbeaee67d8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/941c13fcbc8e85bb43b9d51bda1716a4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/8af870578d2a17748924c208973c2584/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/49434b3314d9d2c07517ce4e92d00578/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/1b5f50652cee1de564c6eadacd4dae07/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/066e06aa67d93cd76eaa0560336350d4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/d7c55bf90ab6de81a72dd2eca970653c/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/79c3c765b9134b98622b671ee8d4997e/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/Swet/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/674c30a9de43c75aaabcce55a4829191/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/Swet/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/674c30a9de43c75aaabcce55a4829191/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b7358ecbd5fbad42179136fedc86281d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b7358ecbd5fbad42179136fedc86281d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/93707f96d3e5c7813c761c3a0754d78c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/93707f96d3e5c7813c761c3a0754d78c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/d7c55bf90ab6de81a72dd2eca970653c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/d7c55bf90ab6de81a72dd2eca970653c/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b7358ecbd5fbad42179136fedc86281d/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.coffeeshop.MainActivity
+ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /Users/Swet/Documents/CoffeeShop/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/Swet/Documents/CoffeeShop/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/Swet/Documents/CoffeeShop/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/Swet/Documents/CoffeeShop/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/Swet/Documents/CoffeeShop/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/Swet/Documents/CoffeeShop/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_async-storage] /Users/Swet/Documents/CoffeeShop/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/Swet/Documents/CoffeeShop/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/Swet/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/674c30a9de43c75aaabcce55a4829191/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/Swet/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/674c30a9de43c75aaabcce55a4829191/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1bf6ee6b4a27958500ef4dfdd8cee318/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1bf6ee6b4a27958500ef4dfdd8cee318/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/1d54cdaf304b83be17dacc3fd9950dd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/1d54cdaf304b83be17dacc3fd9950dd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/1ed05ca6c7103cc96c451f8175ae4d0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/1ed05ca6c7103cc96c451f8175ae4d0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/576eb45ac4825ccc010981a9c2f6f9f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/576eb45ac4825ccc010981a9c2f6f9f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/61f0bf061c8b9341428bfde54e59b8ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/61f0bf061c8b9341428bfde54e59b8ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9ebca6925b20352b3667b22fee4265af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9ebca6925b20352b3667b22fee4265af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/353d3b77a865aa081cc3b4c398364e93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/353d3b77a865aa081cc3b4c398364e93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c38f4b9f3488ce75cfaf490c02d8e3ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c38f4b9f3488ce75cfaf490c02d8e3ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/983dbf2c3360b991a1e05123410627de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/983dbf2c3360b991a1e05123410627de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7ae77c608f214a4c73f228ff39f19956/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7ae77c608f214a4c73f228ff39f19956/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/28a8a39705b0a64c1d07153fccafb415/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/28a8a39705b0a64c1d07153fccafb415/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5fa85dfc3211317f2381e3ed4718c43e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5fa85dfc3211317f2381e3ed4718c43e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cc3afaf5e03912235a877d9954ed7ad0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cc3afaf5e03912235a877d9954ed7ad0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/15e72b7cace45c1ff3ad9c37ed48d5d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/15e72b7cace45c1ff3ad9c37ed48d5d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ddd764d93c784ca2442b92443cd262da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ddd764d93c784ca2442b92443cd262da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b7358ecbd5fbad42179136fedc86281d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b7358ecbd5fbad42179136fedc86281d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/93707f96d3e5c7813c761c3a0754d78c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/93707f96d3e5c7813c761c3a0754d78c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e387351c486e5089fa3ba01abc40511a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e387351c486e5089fa3ba01abc40511a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Swet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e4d1f31f611bc67fbc157db561b7c9b5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Swet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e4d1f31f611bc67fbc157db561b7c9b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/91e0db5bb4e35e62b1dba669c092865c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/91e0db5bb4e35e62b1dba669c092865c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/bbb4654db5a11eff120fe72e0b3f6820/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/bbb4654db5a11eff120fe72e0b3f6820/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/aab4f8fc64cfcdef9e2d77cc2bd19974/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/aab4f8fc64cfcdef9e2d77cc2bd19974/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Swet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f5f93122a4b6f0f5490c94a58862db9c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Swet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f5f93122a4b6f0f5490c94a58862db9c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Swet/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/df2cc0c1c3ff22ff61fdee511ff1cb54/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Swet/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/df2cc0c1c3ff22ff61fdee511ff1cb54/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Swet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5a5440181550e49cec99375558755e8e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Swet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5a5440181550e49cec99375558755e8e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Swet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8fdc4d8081c8a789bc08261c8c9802e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Swet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8fdc4d8081c8a789bc08261c8c9802e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/dbdccfdb666fc29a5635cfbeaee67d8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/dbdccfdb666fc29a5635cfbeaee67d8d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/941c13fcbc8e85bb43b9d51bda1716a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/941c13fcbc8e85bb43b9d51bda1716a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/8af870578d2a17748924c208973c2584/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/8af870578d2a17748924c208973c2584/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/49434b3314d9d2c07517ce4e92d00578/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/49434b3314d9d2c07517ce4e92d00578/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/1b5f50652cee1de564c6eadacd4dae07/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/1b5f50652cee1de564c6eadacd4dae07/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/066e06aa67d93cd76eaa0560336350d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/066e06aa67d93cd76eaa0560336350d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/d7c55bf90ab6de81a72dd2eca970653c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/d7c55bf90ab6de81a72dd2eca970653c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/79c3c765b9134b98622b671ee8d4997e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/Swet/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/79c3c765b9134b98622b671ee8d4997e/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Swet/Documents/CoffeeShop/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/Swet/Documents/CoffeeShop/android/app/src/debug/AndroidManifest.xml:5:22-75
