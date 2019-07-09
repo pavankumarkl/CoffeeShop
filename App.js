@@ -5,69 +5,58 @@
  * @format
  * @flow
  */
-import Menu from "./app/components/Menu"
-import Cart from "./app/components/Cart"
-import React, {Component} from 'react';
-import { View, StyleSheet, Dimensions } from 'react-native';
-import { TabView, SceneMap,PagerPan } from 'react-native-tab-view';
-import { connect } from 'react-redux';
- 
+import Menu from "./app/components/Menu";
+import Cart from "./app/components/Cart";
+import React, { Component } from "react";
+import { View, StyleSheet, Dimensions } from "react-native";
+import { TabView, SceneMap, PagerPan } from "react-native-tab-view";
+import { connect } from "react-redux";
 
-const MenuPage = () => (
-  <Menu/>
-);
-const CartPage = () => (
-  <Cart/>
-);
- class App extends Component {
+const MenuPage = () => <Menu />;
+const CartPage = () => <Cart />;
+class App extends Component {
   state = {
     index: 0,
-    routes: [
-      { key: 'menu', title: 'Menu' },
-      { key: 'cart', title: 'Cart' },
-    ],
+    routes: [{ key: "menu", title: "Menu" }, { key: "cart", title: "Cart" }]
   };
-componentWillReceiveProps(nextProps){
-  console.log("next props is ",nextProps)
-}
-renderPager = props => (
-  <PagerPan {...props} />
-);
+  renderPager = props => <PagerPan {...props} />;
   render() {
-    console.log("Inside render of coffee app",this.state.routes);
+    console.log("Inside render of coffee app", this.state.routes);
     return (
       <TabView
         navigationState={this.state}
         renderScene={SceneMap({
           menu: MenuPage,
-          cart: CartPage,
+          cart: CartPage
         })}
         // renderScene = {this.renderScene(this.state.routes)}
         renderPager={this.renderPager}
         onIndexChange={index => this.setState({ index })}
-        initialLayout={{ width: Dimensions.get('window').width }}
+        initialLayout={{ width: Dimensions.get("window").width }}
       />
     );
   }
-
 }
 
 const styles = StyleSheet.create({
   scene: {
-    flex: 1,
-  },
+    flex: 1
+  }
 });
 
-function mapStateToProps (state) {
-  console.log("Inside mapStateToProps of UserProfile",state);
+function mapStateToProps(state) {
+  console.log("Inside mapStateToProps of UserProfile", state);
   return {
-      addToCartState: state.coffeeShopReducer.addToCartState,
-   }
+    addToCartState: state.coffeeShopReducer.addToCartState
+  };
 }
 function mapDispatchToProps(dispatch) {
   return {
-    dispatch,
+    dispatch
   };
 }
 
-export default connect(mapStateToProps,mapDispatchToProps)(App);
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(App);
